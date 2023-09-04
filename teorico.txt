@@ -1,0 +1,17 @@
+Un método en Java es un conjunto de acciones que hacen una tarea específica en un programa.
+
+Los cuatro tipos de métodos son:
+
+Sin parámetros y sin retorno
+Con parámetros y sin retorno
+Sin parámetros y con retorno
+Con parámetros y con retorno
+La diferencia entre métodos sin y con retorno es que los primeros hacen algo pero no entregan un resultado, mientras que los segundos hacen algo y sí entregan un valor.
+
+La diferencia entre métodos con retorno y sin retorno es que los primeros entregan un valor, los segundos no.
+
+Los métodos son importantes porque organizan el código, lo hacen reutilizable y facilitan resolver problemas complejos.
+
+Una estructura de datos es una forma de almacenar y manejar datos, como arreglos, listas y más.
+
+Un arreglo es una lista fija de elementos, ArrayList es una lista que puede crecer, y HashMap es un diccionario con claves y valores únicos.
